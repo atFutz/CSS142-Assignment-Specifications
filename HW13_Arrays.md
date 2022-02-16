@@ -1,4 +1,4 @@
-# HW13: Arrays
+# HW13: Arrays & Projectile Motion
 
 ## Summary
 
