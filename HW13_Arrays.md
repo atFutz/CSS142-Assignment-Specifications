@@ -62,7 +62,7 @@ t(s)    X(m)    Y(m)
 ```
 > Your program should also output a csv file with the values for t, x and y.
 
-![](assets/sampleExcel.jpg)
+![](assets/sampleValues.jpg)
 
 <br/>
 
